@@ -111,7 +111,7 @@ const CHARS: &[char] = &[
 //2021
 //pub const RENDEZVOUS_SERVERS: &[&str] = &["rs-ny.rustdesk.com"];
 //pub const RS_PUB_KEY: &str = "OeVuKk5nlHiXp+APNn0Y3pC1Iwpwn44JGqrQCsWqmBw=";
-pub const RENDEZVOUS_SERVERS: &[&str] = &["172.16.27.123"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["192.168.7.123"];
 pub const RS_PUB_KEY: &str = "ADUuCHheBPRCOgxkBTM+cdpTmSr47LkEklgnAZnpVbw=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
